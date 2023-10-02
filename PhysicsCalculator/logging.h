@@ -4,8 +4,10 @@
 #include <cmath>
 
 static void displayHelp();
-double getInput(const std::string& prompt);
 void inputOutput();
+
+double getInput(const std::string& prompt);
+
 
 
 //Welcome message
